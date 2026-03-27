@@ -11,6 +11,6 @@ stem(t,y_sampled);
 grid on;
 
 
-% Pasting samples to csv file;
+% Storing samples to csv file;
 file_name = "GElU.csv";
 writematrix(y_sampled, file_name); 
