@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1779871785" />
-    <testcase name="GELU" classname="testbench" file="/Users/jageshwarmacbook/Desktop/ECE_projects/Github_Repo/fpga-gelu-activation/Verilog_Code/framework/testbench.py" lineno="15" time="0.09909486770629883" sim_time_ns="5.125" ratio_time="51.71811738211984" />
-  </testsuite>
-</testsuites>
